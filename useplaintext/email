@@ -1,0 +1,409 @@
+Sử dụng email văn bản thuần túy
+Trên internet có hai loại email chính: email văn bản thuần túy và email HTML. Nhiều người, đặc biệt là trong cộng đồng kỹ thuật, rất thích hoặc thậm chí yêu cầu người tham gia sử dụng email văn bản thuần túy. Tuy nhiên, ứng dụng email của bạn có thể không được thiết lập mặc định. Chúng tôi sẽ giúp bạn cấu hình và giới thiệu cho bạn các quy tắc và quy ước của email văn bản thuần túy.
+
+Mục lục
+Các ứng dụng email được đề xuất dành cho người dùng văn bản thuần túy
+Cách thiết lập văn bản thuần túy với các ứng dụng email khác
+Các khuyến nghị về phép lịch sự khi gửi email văn bản thuần túy
+Tại sao văn bản thuần túy lại tốt hơn HTML?
+Gợi ý phần mềm gửi email
+Làm thế nào để cải thiện những đề xuất này?
+Hướng dẫn này được cung cấp bởi sourcehut , "xưởng rèn của hacker" dành cho phát triển phần mềm, một nền tảng sử dụng email văn bản thuần túy cho nhiều tính năng. Phần mềm hoàn toàn miễn phí và không yêu cầu JavaScript - hãy thử ngay hôm nay !
+
+Con dấu chứng nhận dạng văn bản thuần túy
+Các ứng dụng email được đề xuất dành cho người dùng văn bản thuần túy
+Các trình soạn thảo email sau đây được biết đến là xử lý văn bản thuần túy rất tốt:
+
+aerc (TUI)
+núi cao (TUI)
+bower (TUI)
+Claws Mail (Giao diện người dùng)
+Cypht (Webmail)
+Gnus (emacs)
+KMail (Giao diện đồ họa)
+MailMate (Giao diện đồ họa)
+ngọn lửa (TUI)
+meli (TUI)
+mmh (TUI)
+mu4e (emacs)
+Mutt (TUI)
+neatmail (TUI)
+NeoMutt (TUI)
+nmh (TUI)
+Không nhiều lắm (emacs)
+Roundcube (Webmail)
+SquirrelMail (Webmail)
+Sup (TUI)
+Khao khát phiêu lưu (emacs)
+Tất cả các trình soạn thảo email này đều soạn thảo email dạng văn bản thuần túy theo mặc định, với cài đặt trích dẫn và xuống dòng chính xác, không cần cấu hình thêm để sử dụng đúng cách. Bạn muốn thêm trình soạn thảo email của mình vào danh sách này ?
+
+Cách thiết lập văn bản thuần túy với các ứng dụng email khác
+Nếu dịch vụ webmail của nhà cung cấp email của bạn không hỗ trợ tốt định dạng văn bản thuần túy, vui lòng xem xét viết thư <postmaster@yourdomain.com> khiếu nại và sử dụng một trong những ứng dụng email được đề xuất qua giao thức IMAP & SMTP.
+
+Chuyển đến:
+
+Afterlogic
+nhiều
+Thư Apple
+Mật mã
+Nhổ rễ
+Thư hệ điều hành cơ bản
+Sự tiến hóa
+FairEmail
+Thư nhanh
+Geary
+Gmail
+Gyazmail
+Thư K-9
+mailbox.org
+Mailspring
+Microsoft Outlook (Máy tính để bàn)
+Microsoft Outlook (Phiên bản web)
+Chín
+Bưu điện
+Thư Proton
+Rainloop
+Khối lập phương tròn
+Runbox 7
+Smail
+Sogo
+Sylpheed
+Chim Sấm
+Thunderbird dành cho Android
+Tuta
+Thư Windows
+Sau khi cấu hình xong ứng dụng khách, hãy nhớ xem lại các khuyến nghị về quy tắc ứng xử của chúng tôi .
+
+Afterlogic
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Afterlogic không hỗ trợ email dạng văn bản thuần túy. Vui lòng yêu cầu họ cung cấp tính năng này và sử dụng một trình quản lý email khác.
+
+nhiều
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Nhiều ứng dụng sử dụng email văn bản thuần túy theo mặc định.
+
+Thư Apple
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Chọn Mail → Tùy chọn từ menu.
+Hãy truy cập vào chuyên mục "Soạn thảo"
+Thay đổi tùy chọn "Định dạng tin nhắn" (hoặc "Định dạng") thành "Văn bản thuần túy".
+Mật mã
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Nhổ rễ
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Truy cập Cài đặt → Tùy chọn từ menu
+Chọn Soạn tin nhắn
+Đặt chế độ soạn tin nhắn HTML thành "không bao giờ".
+Thư hệ điều hành cơ bản
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Ứng dụng Mail của Elementary OS không hỗ trợ email dạng văn bản thuần túy. Vui lòng yêu cầu họ bổ sung tính năng này và sử dụng một ứng dụng email khác.
+
+Sự tiến hóa
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Văn bản thuần túy là chế độ mặc định. Để bật tính năng đăng bài ở cuối trang:
+
+Chọn Chỉnh sửa → Tùy chọn từ menu
+Chọn Tùy chọn Trình soạn thảo → Chung
+Bật tùy chọn "Bắt đầu nhập liệu từ cuối trang"
+Bạn cũng có thể chọn hiển thị email dạng văn bản thuần theo mặc định khi xem các tin nhắn nhiều phần:
+
+Chọn Chỉnh sửa → Tùy chọn từ menu
+Chọn Tùy chọn Thư → Tin nhắn HTML
+Chọn tùy chọn bạn muốn sử dụng từ mục "Chế độ HTML".
+FairEmail
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Truy cập Cài đặt → Gửi
+Cuộn xuống phần Tin nhắn
+Bật/tắt tùy chọn "Viết bên dưới văn bản của người gửi"
+Cuộn xuống phần Nâng cao
+Bật/tắt tùy chọn "Chỉ gửi văn bản thuần theo mặc định"
+Bật/tắt tùy chọn "'định dạng được sắp xếp theo luồng' cho văn bản thuần túy"
+Bật/tắt tùy chọn "Tuân thủ quy ước chữ ký Usenet"
+Khi trả lời, hãy sử dụng "Trả lời tất cả" thay vì "Trả lời danh sách".
+
+Thư nhanh
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Truy cập Cài đặt → Chữ ký & Soạn thảo → Tùy chọn soạn thảo
+Trong mục "Soạn thảo", hãy thay đổi "Định dạng soạn thảo" thành "văn bản thuần túy".
+Trong cùng mục đó, hãy tắt tùy chọn "Khi trả lời, hãy sử dụng cùng định dạng với tin nhắn gốc".
+Trong mục "Khi trả lời", hãy thay đổi "Bao gồm tin nhắn gốc" thành "Giống như văn bản được trích dẫn".
+Để xuống dòng văn bản, hãy nhấn tổ hợp phím Ctrl+M trong chế độ soạn thảo.
+
+Geary
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Soạn tin nhắn mới
+Ở góc dưới bên phải, hãy nhấp vào biểu tượng ba chấm.
+Chọn tùy chọn văn bản thuần túy
+Geary sẽ ghi nhớ lựa chọn của bạn cho lần sau.
+
+Để trích dẫn ở cuối bài viết, bạn cần bôi đen phần tin nhắn mà bạn muốn trích dẫn.
+
+Gmail
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Soạn tin nhắn mới
+Ở góc dưới bên phải, hãy nhấp vào biểu tượng ba chấm.
+Chọn tùy chọn văn bản thuần túy
+Gmail sẽ ghi nhớ tùy chọn này cho lần sau.
+
+Gmail tự động xuống dòng tin nhắn văn bản thuần khi đạt tối đa 78 ký tự.
+
+Khi soạn thảo phản hồi cho một bài đăng, hãy nhấp vào ba dấu chấm ngang ở cuối trình soạn thảo. Thao tác này sẽ hiển thị đoạn trích dẫn của bài đăng trước đó. Bạn có thể nhập câu trả lời của mình bên dưới đoạn trích dẫn này để xuống cuối bài đăng.
+
+Gyazmail
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Gyazmail có các thiết lập mặc định chính xác.
+
+Thư K-9
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Nhấn vào ba dấu gạch ngang ở góc trên bên trái.
+Chọn Cài đặt
+Chạm vào địa chỉ email bạn muốn cấu hình → Gửi thư
+Thay đổi định dạng tin nhắn thành văn bản thuần túy
+Chọn "Trả lời sau đoạn văn được trích dẫn"
+mailbox.org
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Nhấp vào biểu tượng "bánh răng" ở góc trên bên phải.
+Vào mục Email
+Bỏ chọn "Cho phép tin nhắn email định dạng HTML" trong mục "Xem".
+Vào mục Soạn thảo
+Chọn "Văn bản thuần túy" trong mục "Định dạng tin nhắn email dưới dạng".
+Bạn có thể yêu cầu hỗ trợ văn bản thuần tốt hơn thông qua diễn đàn người dùng của họ .
+
+Mailspring
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Nhấn vào ba dấu gạch ngang ở góc trên bên phải.
+Chọn Tùy chọn → Chung
+Bỏ chọn "Bật tính năng văn bản đa dạng và trình soạn thảo nâng cao"
+Mailspring hỗ trợ soạn thảo văn bản thuần túy cơ bản. Bạn cũng có thể tạo một email văn bản thuần túy bằng cách giữ phím Alt hoặc Option trong khi nhấp vào "Soạn" hoặc "Trả lời". Hãy yêu cầu thêm tính năng bằng cách gửi yêu cầu đến nhà phát triển .
+
+Microsoft Outlook (Máy tính để bàn)
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Chọn Tệp → Tùy chọn → Thư
+Trong mục "Soạn tin nhắn", chọn "Văn bản thuần túy" từ các tùy chọn "Soạn tin nhắn theo định dạng này".
+Microsoft Outlook (Phiên bản web)
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Nhấp vào biểu tượng bánh răng ở góc trên bên phải.
+Nhấp vào "Xem tất cả cài đặt Outlook"
+Vào mục Thư → Soạn và trả lời
+Cuộn xuống phần "Định dạng tin nhắn".
+Chuyển đổi HTML sang văn bản thuần túy
+Nhấp vào "Lưu"
+Chín
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Mở menu bên cạnh và nhấp vào biểu tượng "bánh răng".
+Chọn Chung, sau đó chọn Soạn thảo
+Trong mục Trình chỉnh sửa, hãy thay đổi tùy chọn Trình chỉnh sửa thành "Trình chỉnh sửa văn bản".
+Bưu điện
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Lưu ý : Người dùng có thể bị phụ thuộc vào nhà cung cấp vì Posteo không hỗ trợ tên miền tùy chỉnh.
+
+Mở Cài đặt bằng cách nhấp vào mục menu ở góc trên bên phải.
+Chọn Tùy chọn ở góc trên bên trái.
+Vào mục Soạn tin nhắn trong cây điều hướng bên trái.
+Chọn "không bao giờ" từ menu thả xuống bên cạnh dòng "Soạn tin nhắn HTML".
+Chọn "bắt đầu tin nhắn mới bên dưới tin nhắn gốc" từ menu thả xuống bên cạnh dòng "Khi trả lời".
+Thư Proton
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Lưu ý : Việc sử dụng IMAP và SMTP với Proton Mail yêu cầu sử dụng một cầu nối. Một cầu nối của bên thứ ba, được cấp phép theo giấy phép MIT, hiện có sẵn. Công nghệ Proton cũng cung cấp mã nguồn của cầu nối chính thức của họ theo giấy phép GNU-GPL-3.0-hoặc-mới hơn.
+
+Vào Cài đặt → Tin nhắn và soạn tin nhắn
+Trong mục "Soạn thảo", hãy đặt "Chế độ soạn thảo" thành "Văn bản thuần túy".
+Bạn cũng nên vào Cài đặt → Tài khoản → Danh tính và xóa chữ ký email mặc định.
+
+Bạn có thể yêu cầu hỗ trợ văn bản thuần tốt hơn bằng cách bình chọn cho vấn đề đó và bình luận trên nền tảng UserVoice của họ .
+
+Rainloop
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Nhấp vào biểu tượng "người" ở góc trên bên phải và chọn "Cài đặt".
+Đặt "Trình soạn thảo văn bản mặc định" thành "Plain"
+Khối lập phương tròn
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Lưu ý : Tùy thuộc vào cách quản trị viên hệ thống của bạn cấu hình Roundcube, hoặc phiên bản Roundcube bạn đã tải xuống đã cũ hay chưa, bạn có thể phải thực hiện các bước sau, nhưng trong hầu hết các trường hợp, bạn không cần phải làm vậy.
+
+Nhấp vào Cài đặt ở góc trên bên phải.
+Chọn Tùy chọn → Soạn tin nhắn
+Chọn "không bao giờ" trong mục "Soạn tin nhắn HTML".
+Chọn Soạn tin nhắn
+Chọn "Bắt đầu tin nhắn mới bên dưới trích dẫn" trong mục "Khi trả lời".
+Bạn cũng nên cân nhắc đặt tùy chọn "Tự động thêm chữ ký" thành "không bao giờ".
+
+Runbox 7
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Runbox 7 sử dụng email dạng văn bản thuần túy theo mặc định.
+
+Smail
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Smail sử dụng email dạng văn bản thuần túy theo mặc định.
+
+Sogo
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Ở góc trên bên phải, nhấp vào biểu tượng bánh răng để mở Tùy chọn.
+Chọn tab Thư
+Thay đổi "Soạn tin nhắn bằng" thành "Văn bản thuần túy"
+Nhấp vào biểu tượng "Lưu" màu xanh lá cây ở góc trên bên phải.
+Sylpheed
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Mở Cấu hình → Tùy chọn chung
+Truy cập tab Soạn thảo → Trình chỉnh sửa
+Bật tùy chọn "Ngắt dòng khi nhập liệu"
+Chim Sấm
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Vào phần cài đặt bằng cách nhấn vào biểu tượng bánh răng.
+Nhấn nút Bút chì
+Đặt tùy chọn Định dạng gửi thành Chỉ văn bản thuần túy
+Nhấn vào nút hình lục giác để vào cài đặt tài khoản.
+Đối với mỗi tài khoản, hãy nhấp vào "Soạn thảo và Địa chỉ" và:
+Đặt tùy chọn "Khi trích dẫn" thành "bắt đầu câu trả lời của tôi bên dưới phần trích dẫn".
+Bỏ chọn "Soạn tin nhắn ở định dạng HTML"
+Thunderbird dành cho Android
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Nhấn vào ba dấu gạch ngang ở góc trên bên trái.
+Chạm vào biểu tượng bánh răng để vào Cài đặt
+Chạm vào địa chỉ email bạn muốn cấu hình → Gửi thư
+Thay đổi định dạng tin nhắn thành văn bản thuần túy
+Chọn "Trả lời sau đoạn văn được trích dẫn"
+Tuta
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Lưu ý : Việc sử dụng IMAP và SMTP, các tiêu chuẩn mở dành cho trình duyệt email, không khả thi với Tuta. Đây là hành vi không thể chấp nhận được đối với một nhà cung cấp dịch vụ email và vì lý do này, chúng tôi đặc biệt không khuyến khích bạn sử dụng Tuta. Những lý do mà Tuta đưa ra để không hỗ trợ các giao thức này là dối trá và bạn nên đóng tài khoản của mình ở đó.
+
+Vào Cài đặt → Email → Định dạng
+Đặt định dạng thành văn bản thuần túy
+Thư Windows
+Soạn thảo bằng văn bản thuần túy
+Ngắt dòng văn bản hoặc định dạng = flowed
+Hỗ trợ đăng bài ở phía dưới
+Windows Mail không hỗ trợ email văn bản thuần túy. Vui lòng gửi yêu cầu tính năng thông qua ứng dụng Feedback Hub và sử dụng một ứng dụng email khác.
+
+Các khuyến nghị về phép lịch sự khi gửi email văn bản thuần túy
+Một vài lưu ý về quy tắc ứng xử khi gửi email bằng văn bản thuần túy:
+
+Bài đăng hàng đầu
+Khi bạn trả lời email, nhiều trình soạn thảo email sẽ tự động trích dẫn toàn bộ nội dung thư mà bạn đang trả lời ngay bên dưới phần trả lời của bạn. Điều này dẫn đến những chuỗi email dài, chứa toàn bộ lịch sử cuộc thảo luận trong một phần mở rộng ngày càng dài ở mỗi email. Hiện tượng này được gọi là "đăng lại nội dung thư" (top posting), và nó bị nhiều người dùng email văn bản thuần túy phản đối mạnh mẽ.
+
+Email dạng văn bản thuần túy giúp bạn dễ dàng tích hợp văn bản gốc vào thư trả lời một cách ý nghĩa hơn. Hãy xem xét hai ví dụ sau:
+
+Vâng, nghe hay đấy.
+
+Jim đã bình luận vào lúc 23:02 ngày 23/03/2019:
+Bạn có thấy màu đỏ sẫm ổn không?
+>
+Tim đã bình luận vào lúc 22:43 ngày 23/03/2019:
+>> Chúng ta đã biết nên dùng màu gì cho nền chưa?
+>>
+>>> Jim đã nói vào lúc 22:30 ngày 23/03/2019:
+>>> Còn việc gì cần làm trên trang web nữa không?
+Email này sử dụng phương pháp trả lời trực tiếp từ đầu trang (top-posting), và cách tiếp cận này không được khuyến khích. Một cách tiếp cận tốt hơn có thể như sau:
+
+Jim đã bình luận vào lúc 23:02 ngày 23/03/2019:
+Bạn có thấy màu đỏ sẫm ổn không?
+
+Vâng, nghe hay đấy.
+Bạn cũng có thể chỉnh sửa thêm email gốc bằng cách trích dẫn nó nhiều lần để làm rõ những điểm bạn đang phản hồi, như sau:
+
+Chào Drew,
+
+Bạn có thể xem xét lỗi khiến các máy khách phiên bản 2.34 bị ngắt kết nối không?
+Ngay lập tức ư? Tôi nghĩ điều này có liên quan đến thay đổi về thời gian chờ vào tuần trước.
+
+Ngoài ra, bản sửa lỗi cho lỗi xếp hàng chờ của bạn đã được xác nhận sẽ có trong bản phát hành tiếp theo.
+Cảm ơn!
+Chào Sarah, mình chắc chắn sẽ xem xét việc đó.
+
+Tôi nghĩ điều này có liên quan đến sự thay đổi về thời gian chờ vào tuần trước.
+
+Tôi không chắc lắm. Tôi nghĩ giảm thời gian chờ sẽ *cải thiện* vấn đề này.
+Nếu có gì, tôi sẽ xem xét.
+
+Ngoài ra, bản sửa lỗi cho lỗi xếp hàng của bạn đã được xác nhận sẽ có trong bản phát hành tiếp theo.
+Cảm ơn!
+
+Tuyệt! Rất vui được giúp đỡ.
+Như câu chuyện cười xưa vẫn nói...
+
+A : Bởi vì nó đảo ngược dòng chảy logic của cuộc hội thoại.
+Hỏi : Tại sao việc đăng bài ở vị trí đầu trang lại bị coi là không tốt?
+Ngắt dòng văn bản của bạn
+Thông thường, email văn bản thuần túy nên được xuống dòng ở 72 cột bằng cách chèn một dòng mới và tiếp tục nội dung trên dòng tiếp theo. Điều này nhằm mục đích giúp email dễ đọc và dễ trích dẫn hơn trong nhiều ngữ cảnh mà người dùng kỹ thuật có thể gặp phải, chẳng hạn như trình giả lập thiết bị đầu cuối. Tất nhiên, việc thực hiện thao tác này thủ công khi viết email rất phiền phức — các ứng dụng email được đề xuất sẽ tự động thực hiện việc này cho bạn, cũng như bất kỳ ứng dụng nào được hiển thị ở trên với tùy chọn "Xuống dòng văn bản hoặc sử dụng định dạng = flowed".
+
+Các khuyến nghị bổ sung
+Tài liệu này có thể được dùng như một hướng dẫn bổ sung về quy tắc ứng xử khi giao tiếp qua email.
+
+Tại sao văn bản thuần túy lại tốt hơn HTML?
+Email HTML chủ yếu được sử dụng cho mục đích tiếp thị - tức là những email mà có lẽ bạn không muốn nhận ngay từ đầu. Một vài lợi thế mà chúng mang lại cho người dùng cuối, chẳng hạn như liên kết, hình ảnh nội tuyến và văn bản in đậm hoặc in nghiêng, không đáng để đánh đổi những nhược điểm đó.
+
+HTML như một công cụ tấn công lừa đảo
+Email định dạng HTML cho phép bạn tạo các liên kết ẩn URL phía sau một đoạn văn bản thân thiện với người dùng. Tuy nhiên, đây là một phương thức tấn công lừa đảo cực kỳ phổ biến, trong đó người gửi độc hại tạo ra một liên kết gây hiểu nhầm dẫn bạn đến một trang web khác với trang bạn mong đợi. Thường thì các trang web này được thiết kế giống trang đăng nhập của một dịch vụ bạn đang sử dụng và sẽ lừa bạn nhập mật khẩu tài khoản của mình. Trong email văn bản thuần túy, URL luôn hiển thị và bạn có thể dễ dàng đưa ra quyết định sáng suốt hơn để nhấp vào liên kết đó.
+
+Nhiều email lừa đảo cũng đã thực hiện một bước sao chép cẩn thận kiểu dáng hình ảnh của một email mà bạn có thể tin tưởng, chẳng hạn như giao diện của email PayPal. Với văn bản thuần túy, việc đánh lừa bạn theo cách này khó khăn hơn nhiều.
+
+Xâm phạm quyền riêng tư và theo dõi
+Hầu hết các email HTML được gửi bởi các nhà tiếp thị đều bao gồm các mã định danh trong liên kết và hình ảnh nội tuyến, được thiết kế để thu thập thông tin về bạn và gửi lại cho người gửi. Hãy kiểm tra kỹ các URL - những dãy số và chữ cái lạ đó là duy nhất và được sử dụng để xác định danh tính của bạn. Thông tin này được sử dụng để "thao túng não bộ" của bạn, nhằm tìm kiếm những quảng cáo có khả năng ảnh hưởng đến thói quen mua sắm của bạn hơn. Email HTML có lợi cho nhà tiếp thị nhưng lại có hại cho bạn.
+
+Tỷ lệ thư rác cao hơn
+Email HTML mở ra rất nhiều khả năng mà những kẻ gửi thư rác lợi dụng để vượt qua các bộ lọc thư rác, chẳng hạn như làm cho một lượng lớn văn bản trở nên vô hình, sử dụng các phần tử ẩn, v.v. Nhiều người loại bỏ email HTML (đặc biệt là danh sách gửi thư) đơn giản vì nó làm giảm đáng kể số lượng thư rác mà họ nhận được.
+
+Các lỗ hổng bảo mật của trình duyệt thư điện tử
+HTML là một tập hợp các thông số kỹ thuật cực kỳ lớn và phức tạp, được thiết kế mà không dành riêng cho email. Nó được thiết kế để duyệt web, nơi có vô số tài liệu, ứng dụng và nhiều thứ khác. Việc triển khai dù chỉ một phần nhỏ các tiêu chuẩn này cũng đòi hỏi hàng trăm nghìn, thậm chí hàng triệu giờ làm việc. Một phần lớn (có lẽ là đa số) các tính năng này không phù hợp với email, và nếu được tích hợp, chúng có thể bị lợi dụng để rò rỉ thông tin về bạn, danh bạ, lịch, các email khác trong hộp thư đến của bạn, v.v. Tuy nhiên, do nỗ lực khổng lồ cần thiết để triển khai một trình kết xuất HTML, nên chưa ai xây dựng được một trình kết xuất chuyên dụng cho email được đảm bảo an toàn. Thay vào đó, hầu hết các ứng dụng email đều sử dụng trình duyệt web đa năng, với nhiều tính năng bị vô hiệu hóa. Đây là nguồn gốc hàng đầu của các lỗ hổng bảo mật trong các ứng dụng email, dẫn đến việc tiết lộ thông tin và thậm chí là thực thi mã độc hại tùy ý.
+
+Đây là danh sách 421 lỗ hổng thực thi mã từ xa trong Thunderbird. Nếu bạn rảnh rỗi, hãy thử tìm một lỗ hổng không khai thác công nghệ web.
+
+Email định dạng HTML khó truy cập hơn.
+Việc duyệt web là một thách thức lớn đối với những người dùng cần trình đọc màn hình hoặc các công cụ hỗ trợ khác để sử dụng máy tính. Vấn đề tương tự cũng áp dụng cho email, thậm chí còn khó khăn hơn - việc tạo một email HTML dễ tiếp cận còn khó hơn cả việc tạo một trang web dễ tiếp cận do những hạn chế mà hầu hết các trình quản lý email đặt ra cho email HTML (mà họ không còn lựa chọn nào khác ngoài việc áp đặt - vì lý do bảo mật đã nêu 
